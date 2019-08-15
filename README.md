@@ -2,6 +2,7 @@
 My first depository
 <html>
 Uppgift 1c:
+  
 <b>* Vad är en domän och varför har Sverige just .se? </b>
 En domän finns till för att människor lättare ska kunna hitta hemsidor, mailadresser och andra datorer m.m. utan att behöva memorera en massa IP-adresser. En användare skriver in en URL, exempelvis youtube.com, detta skickas tillsammans med användarens/klientens IP-adress till en DNS-server (Domain Name System), DNS-servern skickar sedan URL:ens IP-adress tillbaka till klientens IP-adress och du skickas då till den URL du skrivit in. Något förenklat kan man säga att en DNS-server översätter från webaddresser till IP-adresser.
 
