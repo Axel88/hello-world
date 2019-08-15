@@ -2,7 +2,7 @@
 <b>Internets historia - Tidslinje</b>
 <br><br>
 <b>1962-1969: Arpanet.</b><br> 
-Arpanet togs fram av USA för att skydda sin data från Sovjet under kalla kriget.<br>
+Arpanet togs fram av USA för att skydda sin data från Sovjet under kalla kriget.<br><br>
 
 <b>1972: Det första E-postmeddelandet.</b><br> 
 Det första E-postmeddelandet skickades, mailet gick från USA via en server/dator i Sverige och vidare till mottagaren i Norge.
